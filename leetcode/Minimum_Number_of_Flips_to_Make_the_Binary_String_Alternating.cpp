@@ -1,9 +1,9 @@
 // ────────────────────────────────────────────────────────────
 // Problem : Minimum Number of Flips to Make the Binary String Alternating
 // Platform: LeetCode
-// URL     : https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/submissions/1940595003/?envType=daily-question&envId=2026-03-07
+// URL     : https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/submissions/1940655463/?envType=daily-question&envId=2026-03-07
 // Language: cpp
-// Date    : 3/7/2026, 1:51:18 PM
+// Date    : 3/7/2026, 3:11:03 PM
 // ────────────────────────────────────────────────────────────
 // Time Complexity : O(n)
 // Space Complexity: O(n)
