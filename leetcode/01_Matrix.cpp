@@ -5,8 +5,8 @@
 // Language: cpp
 // Date    : 3/17/2026, 8:48:29 PM
 // ────────────────────────────────────────────────────────────
-// Time Complexity : O(m*n)
-// Space Complexity: O(n)
+// Time Complexity : O(n*m)
+// Space Complexity: O(n*m)
 // Notes           : bfs
 // ────────────────────────────────────────────────────────────
 
